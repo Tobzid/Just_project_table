@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@400;700&display=swap');
+body{
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 15px;
+}
+
+table, th,td{
+    border: 1px solid black;
+    margin-top: auto;
+    padding:10px;
+    border-collapse: collapse;
+}
